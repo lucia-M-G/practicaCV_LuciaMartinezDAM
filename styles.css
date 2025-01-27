@@ -152,6 +152,11 @@ ul li a:hover {
     cursor: pointer;
 }
 
+.hire__me {
+    background-color: var(--primary-color);
+    color: #ffffff;
+}
+
 @media (width < 750px) {
     nav .checkbox {
       display: block;
