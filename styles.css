@@ -32,3 +32,12 @@ nav {
     background-color: #ffffff;
     z-index: 99;
 }
+
+.nav__content {
+    max-width: var(--max-width);
+    margin: auto;
+    padding: 1.5rem 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
