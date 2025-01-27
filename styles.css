@@ -83,3 +83,9 @@ ul li a {
     color: var(--text-dark);
     transition: 0.3s;
 }
+
+ul li a:hover {
+    border-top-color: var(--secondary-color);
+    border-bottom-color: var(--secondary-color);
+    color: var(--secondary-color);
+}
