@@ -140,6 +140,18 @@ ul li a:hover {
     gap: 1rem;
 }
 
+.action__btns button {
+    font-size: 1rem;
+    font-weight: 600;
+    letter-spacing: 2px;
+    padding: 1rem 2rem;
+    outline: none;
+    border: 2px solid var(--primary-color);
+    border-radius: 10px;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
 @media (width < 750px) {
     nav .checkbox {
       display: block;
