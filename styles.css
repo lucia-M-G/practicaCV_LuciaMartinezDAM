@@ -170,6 +170,11 @@ ul li a:hover {
     color: #ffffff;
 }
 
+.image {
+    display: grid;
+    place-items: center;
+}
+
 @media (width < 750px) {
     nav .checkbox {
       display: block;
