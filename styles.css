@@ -110,4 +110,8 @@ ul li a:hover {
     nav #check:checked ~ ul {
         left: 0;
     }
+
+    ul li a {
+        font-size: 1.25rem;
+    }
 }
