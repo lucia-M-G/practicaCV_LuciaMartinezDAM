@@ -161,6 +161,10 @@ ul li a:hover {
     background-color: var(--primary-color-dark);
 }
 
+.portfolio {
+    color: var(--primary-color);
+}
+
 @media (width < 750px) {
     nav .checkbox {
       display: block;
