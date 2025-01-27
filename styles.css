@@ -52,3 +52,7 @@ nav .logo a {
 nav .logo a:hover {
     color: var(--primary-color-dark);
 }
+
+nav .checkbox {
+    display: none;
+}
