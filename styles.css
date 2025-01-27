@@ -90,6 +90,10 @@ ul li a:hover {
     color: var(--secondary-color);
 }
 
+.section {
+    background-color: var(--extra-light);
+}
+
 @media (width < 750px) {
     nav .checkbox {
       display: block;
