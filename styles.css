@@ -56,3 +56,7 @@ nav .logo a:hover {
 nav .checkbox {
     display: none;
 }
+
+nav input {
+    display: none;
+}
