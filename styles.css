@@ -60,3 +60,9 @@ nav .checkbox {
 nav input {
     display: none;
 }
+
+nav .checkbox i {
+    font-size: 2rem;
+    color: var(--primary-color);
+    cursor: pointer;
+}
