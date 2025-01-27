@@ -217,5 +217,6 @@ ul li a:hover {
     
     .action__btns {
         margin: auto;
+        justify-content: center;
     }
 }
