@@ -89,3 +89,9 @@ ul li a:hover {
     border-bottom-color: var(--secondary-color);
     color: var(--secondary-color);
 }
+
+@media (width < 750px) {
+    nav .checkbox {
+      display: block;
+    }
+}
