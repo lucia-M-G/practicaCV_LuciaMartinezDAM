@@ -104,6 +104,12 @@ ul li a:hover {
     gap: 4rem;
 }
 
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
 @media (width < 750px) {
     nav .checkbox {
       display: block;
