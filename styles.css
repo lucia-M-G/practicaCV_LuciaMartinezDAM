@@ -135,6 +135,11 @@ ul li a:hover {
     margin-bottom: 2rem;
 }
 
+.action__btns {
+    display: flex;
+    gap: 1rem;
+}
+
 @media (width < 750px) {
     nav .checkbox {
       display: block;
