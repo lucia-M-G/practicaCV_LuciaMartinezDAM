@@ -113,14 +113,14 @@ ul li a:hover {
 }
 
 .subtitol {
-    letter-spacing: 2px;
+    letter-spacing: 10px;
     color: var(--text-light);
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .titol {
-    font-size: 2.5rem;
+    font-size: 2rem;
     font-weight: 350;
     line-height: 3rem;
     color: var(--text-dark);
@@ -168,6 +168,7 @@ ul li a:hover {
 
 .cv {
     color: var(--primary-color);
+    color: #9f46f3;
 }
 
 .cv:hover {
@@ -178,6 +179,7 @@ ul li a:hover {
 .image {
     display: grid;
     place-items: center;
+    margin-top: -12rem;
 }
 
 .image img {
@@ -223,6 +225,7 @@ ul li a:hover {
 
     .image {
         grid-area: 1/1/2/2;
+        margin-top: -1rem;
     }
     
     .action__btns {
