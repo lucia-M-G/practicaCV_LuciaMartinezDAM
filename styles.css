@@ -119,16 +119,19 @@ ul li a:hover {
     margin-bottom: 0.5rem;
 }
 
-.title {
+.titol {
     font-size: 2.5rem;
-    font-weight: 400;
+    font-weight: 350;
     line-height: 3rem;
     color: var(--text-dark);
     margin-bottom: 1rem;
+    margin-top: 2rem;
 }
 
-.title span {
-    font-weight: 600;
+.titol span {
+    font-weight: 500;
+    font-size: 3rem;
+
 }
 
 .description {
