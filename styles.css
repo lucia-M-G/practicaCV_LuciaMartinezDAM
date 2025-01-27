@@ -92,6 +92,7 @@ ul li a:hover {
 
 .section {
     background-color: var(--extra-light);
+    padding-top: 5rem;
 }
 
 .section__container {
@@ -102,6 +103,7 @@ ul li a:hover {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 4rem;
+    margin-top: 5rem;
 }
 
 .content {
