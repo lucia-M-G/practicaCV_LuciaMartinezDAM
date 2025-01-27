@@ -117,6 +117,14 @@ ul li a:hover {
     margin-bottom: 0.5rem;
 }
 
+.title {
+    font-size: 2.5rem;
+    font-weight: 400;
+    line-height: 3rem;
+    color: var(--text-dark);
+    margin-bottom: 1rem;
+}
+
 @media (width < 750px) {
     nav .checkbox {
       display: block;
