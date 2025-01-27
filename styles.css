@@ -207,10 +207,15 @@ ul li a:hover {
         font-size: 1.25rem;
     }
 
+    .section {
+        padding-top: 4rem;
+    }
+
     .section__container {
         padding: 10rem 1rem 5rem 1rem;
         text-align: center;
         grid-template-columns: repeat(1, 1fr);
+        margin-top: 4rem;
     }
 
     .image {
